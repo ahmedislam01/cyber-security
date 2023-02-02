@@ -106,6 +106,25 @@
 * Risks are the potential consequences of a vulnerability being exploited by a threat. Risks can include loss of sensitive information
 
 
+#NIST Framework
+* NIST is the National Institute of Standards and Technology at the U.S. Department of Commerce. The NIST Cybersecurity Framework helps businesses of all sizes better understand, manage, and reduce their cybersecurity risk and protect their networks and data.
+##Why we need Framework for CyberSecyrity?
+* It helps the organization to manage understand and reduce CyberSecurity risks.
+## Why do I need NIST?
+* The main function of NIST is to create best practices (also known as standards) for organizations and government agencies to follow. These security standards are developed to improve the security posture of government agencies and private companies dealing with government data.
+
+## Types of framework:
+# PCIDDS:
+* Stands for Payment Card Industry Data Security Standard. It is designed to secure credit cards,debit cards and cash card transaction.
+# ISO 2700:
+* International Organization of Standardization. It is designed to managing and secure information security management system.
+# CIS:
+* CIS benchmarks are internationally recognized as security standards for defending IT systems and data against cyberattacks. Used by thousands of businesses, they offer prescriptive guidance for establishing a secure baseline configuration.
+# NIST:
+* It is most popular Framework used now a days.Naional Institute Of Standard And Technology. 
+* It is designed to make organization secure. These organization may be include national security centers, economic organizations.
+
+
 
 
 
