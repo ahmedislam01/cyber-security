@@ -27,3 +27,16 @@
 # NIST Framework
 * NIST is the National Institute of Standards and Technology at the U.S. Department of Commerce. The NIST Cybersecurity Framework helps businesses of all sizes better understand, manage, and reduce their cybersecurity risk and protect their networks and data.
 
+# Vulnerability
+* Vulnerability is a weakness that can be exploited by cybercriminals to gain unauthorized access to a computer system.
+# Risk
+* Risk is the probability of financial loss, reputational harm, and loss of an organisation.
+# Threat
+* any possible malicious attack that seeks to unlawfully access data.
+
+# What is HIPAA?
+* HIPAA stands for Health Insurance Portability and Accountability Act. HIPAA help us to  protect sensitive patient health information including treatment details, test results, personally identifiable data etc.
+# What is FISMA?
+* FISMA satands for  Federal Information Security Management Act. FISMA security standard is used to protect government information and operations.
+# what is Cyber Security Framework?
+* A cybersecurity framework is a collection of best practices that an organization should follow to manage its cybersecurity risk. NIST Cyber security works for organizations to protect their personals details. Cybersecurity framework provides guidance on how to manage and reduce IT infrastructure security risk.
