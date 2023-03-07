@@ -13,9 +13,13 @@
 | cat>file_name | creating text file |
 | cat file_name | Read file |
 | cd | Change Directory |
+| cmp | Compare two files |
 | nano file_name | write  file |
 | cat file_name1 >>file_name2 | append File |
 | mv File_name Directory_name | Move Files to Directory |
 | cp File_name /home/oslab/path | Copy_file |
 | echo | Display message on screen |
 | ./ | for Run a file | 
+| apt-get | Search for and install software packages (Debian) |
+| break | Exit from a loop |
+| touch file_name | for creating empty text file |
